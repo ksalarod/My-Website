@@ -4,7 +4,8 @@
     File Name: styles.css
 */
 
-.hero {background-image: linear-gradient(rgba(255, 255, 255, 0.5),
+.hero {
+background-image: linear-gradient(rgba(255, 255, 255, 0.5),
  rgba(255, 255, 255, 0.5)),url(baby-hawk.jpg);
     background-size: cover;  
     background-repeat: no-repeat; 
@@ -22,7 +23,9 @@
 
 .display-1 {
 
-font-size; 4em;
+font-size: 4em;
+background-color: #2a1f14;
+
 
 
 }
@@ -56,3 +59,5 @@ background-color: #2a1f14;
     
     .display-1 {
         font-size: 8em;
+        background-color: #2a1f14;
+
